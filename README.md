@@ -1,2 +1,2 @@
-# pet_projects
-Repo for pet projects
+# Vaccination Analysis
+The project analyzes the link between vaccination rate and mortality rate in different countries
